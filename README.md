@@ -1,5 +1,5 @@
 # MuleWorkFlowExample
-Mule ESB Implemenation for: 
+Mule ESB Implementation for: 
 
 1) FTP Connector which persist an Object to MongoDB.
 
